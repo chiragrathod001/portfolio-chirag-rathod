@@ -154,3 +154,5 @@ document.querySelector('.close-btn').addEventListener('click',()=>{
     document.querySelector('.contect-form').classList.remove('opens');
     togglescrollinghidden();
 });
+
+//form validation 

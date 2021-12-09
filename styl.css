@@ -2,7 +2,7 @@
 
 :root {
     --main-color: #e98b2c;
-    --dark: #1b1b22;
+    --dark: rgb(27, 27, 34);
     --dark-lite: #32323a;
     --white: #ffffff;
     --white-light: #c8c8c8;
